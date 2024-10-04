@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    background: #900000;
+}
+.rem1  
+{
+    background: #fff;
+    width: 90%;
+    max-width: 600px;
+    margin: 100px auto 0;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+.rem2  
+{
+    background: #fff;
+    width: 90%;
+    max-width: 600px;
+    margin: 100px auto 0;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+.rem3
+{
+    background: #fff;
+    width: 90%;
+    max-width: 600px;
+    margin: 100px auto 0;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+.rem4  
+{
+    background: #fff;
+    width: 90%;
+    max-width: 600px;
+    margin: 100px auto 0;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+.rem5  
+{
+    background: #fff;
+    width: 90%;
+    max-width: 600px;
+    margin: 100px auto 0;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+
+.rem6  
+{
+    background: #fff;
+    width: 90%;
+    max-width: 600px;
+    margin: 100px auto 0;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+.rem7  
+{
+    background: #fff;
+    width: 90%;
+    max-width: 600px;
+    margin: 100px auto 0;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+.rem8  
+{
+    background: #fff;
+    width: 90%;
+    max-width: 600px;
+    margin: 100px auto 0;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+
+h3{
+    color: #4d0000;
+}
